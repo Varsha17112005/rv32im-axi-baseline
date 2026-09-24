@@ -130,10 +130,4 @@ vivado -mode batch -source scripts\run_synth_vivado.tcl
 ```
 Generates `utilization_synth.txt`, `timing_summary.txt`, and `power_summary.txt`.
 
----
 
-## 👥 Authors & Acknowledgments
-
-* **Department of Electronics and Communication Engineering (ECE)**
-* **PSG Institute of Technology and Applied Research (PSG iTech)**, Coimbatore, India.
-* **Target Application:** Hardware Accelerator Design for Edge AI & In-Memory Computing.
